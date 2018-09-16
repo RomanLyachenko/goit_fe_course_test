@@ -1,2 +1,2 @@
 # goit-fe-course
-Modul 1-2
+# goit-fe-course
